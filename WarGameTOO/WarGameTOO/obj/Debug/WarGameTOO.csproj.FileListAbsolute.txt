@@ -1,0 +1,17 @@
+c:\users\rothman\documents\visual studio 2017\Projects\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.exe.config
+c:\users\rothman\documents\visual studio 2017\Projects\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.exe
+c:\users\rothman\documents\visual studio 2017\Projects\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.pdb
+c:\users\rothman\documents\visual studio 2017\Projects\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.exe
+c:\users\rothman\documents\visual studio 2017\Projects\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.pdb
+Z:\CSharp stuff\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.exe.config
+Z:\CSharp stuff\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.exe
+Z:\CSharp stuff\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.pdb
+Z:\CSharp stuff\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.exe
+Z:\CSharp stuff\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.pdb
+Z:\CSharp stuff\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.csprojResolveAssemblyReference.cache
+U:\CSharp stuff\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.exe.config
+U:\CSharp stuff\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.exe
+U:\CSharp stuff\WarGameTOO\WarGameTOO\bin\Debug\WarGameTOO.pdb
+U:\CSharp stuff\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.csprojResolveAssemblyReference.cache
+U:\CSharp stuff\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.exe
+U:\CSharp stuff\WarGameTOO\WarGameTOO\obj\Debug\WarGameTOO.pdb

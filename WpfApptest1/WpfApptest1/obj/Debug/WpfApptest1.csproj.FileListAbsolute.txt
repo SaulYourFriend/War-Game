@@ -1,0 +1,16 @@
+U:\CSharp stuff\WpfApptest1\WpfApptest1\bin\Debug\WpfApptest1.exe.config
+U:\CSharp stuff\WpfApptest1\WpfApptest1\bin\Debug\WpfApptest1.exe
+U:\CSharp stuff\WpfApptest1\WpfApptest1\bin\Debug\WpfApptest1.pdb
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\MainWindow.g.cs
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\App.g.cs
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1_MarkupCompile.cache
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1_MarkupCompile.lref
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\MainWindow.baml
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1.g.resources
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1.Properties.Resources.resources
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1.csproj.GenerateResource.cache
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1.csproj.CoreCompileInputs.cache
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1.exe
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\WpfApptest1.pdb
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\PrinterUserControl.g.cs
+U:\CSharp stuff\WpfApptest1\WpfApptest1\obj\Debug\PrinterUserControl.baml
